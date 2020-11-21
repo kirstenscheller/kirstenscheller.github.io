@@ -414,6 +414,16 @@ h5, .experience-subtitle {
 
 /* SPECIFIC TYPOGRAPHY STYLES ABOVE*/
 
+
+
+.project-column{
+  width: 50%;
+  opacity: 50%;
+}
+
+
+
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
