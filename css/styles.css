@@ -429,10 +429,9 @@ h5, .project-skills{
 }
 .project-column-1{
   width: 30%;
-    margin: 0;
+
     top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+
 }
 .project-column-2{
   width:70%;
