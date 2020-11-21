@@ -392,8 +392,10 @@ h6, .h6 {
   font-size: 1rem;
 }
 
+/* SPECIFIC TYPOGRAPHY STYLES */
+
 h1, .master-head-font{
-  font-size: 2.5rem;
+  font-size: 4rem;
   font-weight: 700;
   color: white;
 }
@@ -409,6 +411,8 @@ h5, .experience-subtitle {
   font-weight: 300;
   color: darkgray;
 }
+
+/* SPECIFIC TYPOGRAPHY STYLES ABOVE*/
 
 .lead {
   font-size: 1.25rem;
@@ -10135,8 +10139,8 @@ img::-moz-selection {
   }
 }
 header.masthead {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   text-align: center;
   background-color: darkgray;
   background-repeat: no-repeat;
