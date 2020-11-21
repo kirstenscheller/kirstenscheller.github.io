@@ -423,10 +423,13 @@ h5, .project-skills{
 /* PROJECT COLUMNS and ROWS */
 
 
+.project-row{
+  height: 200px;
+  position: relative;
+}
 .project-column-1{
   width: 30%;
     margin: 0;
-    position: absolute;
     top: 50%;
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
