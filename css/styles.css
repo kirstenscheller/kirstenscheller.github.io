@@ -161,12 +161,12 @@ sup {
 
 /* HYPERLINKS */
 a {
-  color: white;
+  color: rgb(8, 8, 8);
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: white;
+  color: rgb(96, 162, 248);
   text-decoration: underline;
 }
 
