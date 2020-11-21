@@ -414,6 +414,10 @@ h5, .experience-subtitle {
   margin-bottom: 0rem;
 }
 
+p{
+  color: black;
+}
+
 p, .project-skills{
   color: rgb(150, 16, 127);
   font-weight: 200;
