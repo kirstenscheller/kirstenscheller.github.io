@@ -414,8 +414,7 @@ h5, .experience-subtitle {
   margin-bottom: 0rem;
 }
 
-h5, .project-skills{
-  font-size: 1rem;
+p, .project-skills{
   color: rgb(150, 16, 127)
   font-weight: 200;
 }
