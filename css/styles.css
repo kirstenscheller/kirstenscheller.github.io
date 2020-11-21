@@ -387,7 +387,6 @@ h4, .h4 {
 h5, .h5 {
   font-size: 1.25rem;
   font-weight: 300;
-  margin-bottom: 0.1rem;
 }
 
 h6, .h6 {
@@ -412,6 +411,7 @@ h5, .experience-subtitle {
   font-size: 1.25rem;
   font-weight: 300;
   color: darkgray;
+  margin-bottom: 0rem;
 }
 
 h5, .project-skills{
