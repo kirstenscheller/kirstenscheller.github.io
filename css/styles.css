@@ -158,13 +158,15 @@ sup {
   top: -0.5em;
 }
 
+
+/* HYPERLINKS */
 a {
-  color: #fed136;
+  color: white;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #e6b301;
+  color: white;
   text-decoration: underline;
 }
 
@@ -410,6 +412,12 @@ h5, .experience-subtitle {
   font-size: 1.25rem;
   font-weight: 300;
   color: darkgray;
+}
+
+h5, .project-skills{
+  font-size: 1rem;
+  color: rgb(150, 16, 127)
+  font-weight: 200;
 }
 
 /* PROJECT COLUMNS */
