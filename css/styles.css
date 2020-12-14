@@ -405,7 +405,7 @@ h1, .master-head-font{
 h3, .master-subtitle {
   font-size: 1.5rem;
   font-weight: 400;
-  color: lightslategray;
+  color:  rgb(96, 162, 248);
 }
 
 h5, .experience-subtitle {
