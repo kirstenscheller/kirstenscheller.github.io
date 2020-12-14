@@ -179,11 +179,6 @@ a:not([href]):not([class]):hover {
   text-decoration: none;
 }
 
-a, .resume_text{
-  color: rgb(231, 200, 21);
-  font-weight: 100;
-}
-
 
 pre,
 code,
