@@ -413,6 +413,12 @@ h5, .experience-subtitle {
   color: darkgray;
   margin-bottom: 0rem;
 }
+
+p, .resume_text{
+  color: rgb(231, 200, 21);
+  font-weight: 100;
+}
+
 /*
 p, .project-skills{
   color: rgb(150, 16, 127);
