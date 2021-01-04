@@ -437,7 +437,9 @@ p, .project-skills{
 }
 .project-column-2{
   width:70%;
-
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 
